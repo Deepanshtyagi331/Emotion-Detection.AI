@@ -1,0 +1,19 @@
+# Python
+**/venv/
+**/__pycache__/
+*.pyc
+.env
+backend/test_deepface.py
+
+# Node.js
+**/node_modules/
+**/.next/
+frontend/out/
+
+# IDE and OS
+.DS_Store
+.vscode/
+**/pyrightconfig.json
+
+# Docker
+.docker/
